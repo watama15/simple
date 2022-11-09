@@ -14,7 +14,7 @@ let gh = 'https://github.com/BOTCAHX'
 'mediaType':2,
 'previewType':'pdf',
 'title':'Follow Github Gua',
-'body':'© BOTCAHX',
+'body':'© Anya Bot',
 'thumbnail':await(await fetch('https://i.ibb.co/vzrsS1w/thumbnail.jpg')).buffer(),
 'sourceUrl':gh}},
 'caption':'Hi, Silahkan pilih opsi di bawah ini.\n1 Minggu = Rp5000\n1 Bulan = Rp15.000\n*Payment*\n\n*x* Dana: 081261973803\n*x* Pulsa: 081364444859',
