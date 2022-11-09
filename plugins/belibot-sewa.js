@@ -17,7 +17,7 @@ let gh = 'https://github.com/koncit'
 'body':'© Anya Bot',
 'thumbnail':await(await fetch('https://i.ibb.co/vzrsS1w/thumbnail.jpg')).buffer(),
 'sourceUrl':gh}},
-'caption':'Hi, Silahkan pilih opsi di bawah ini
+'caption':'Hi, Silahkan pilih opsi di bawah ini\n
 ╭━━━━「 *SEWA* 」
 ┊⫹⫺ *Hemat:* _5k/grup (1 minggu)_
 ┊⫹⫺ *Normal:* _15k/grup (1 bulan)_
